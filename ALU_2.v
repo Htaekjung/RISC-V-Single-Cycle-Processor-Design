@@ -1,6 +1,6 @@
 /****************************************************************
  - Project        : RISC-V Design
- - File name      : ALU.v
+ - File name      : ALU_2.v
  - Description    : Building ALU with flags
  - Owner          : Hyuntaek.Jung
  - Revision History : 1) 2024.10.07 : Initial release
