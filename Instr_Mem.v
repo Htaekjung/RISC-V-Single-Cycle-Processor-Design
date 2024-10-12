@@ -22,12 +22,6 @@ module Instr_Mem #(
         // I-type 명령어
         Mem[0] = 32'hFFC4A303; // lw x6, -4(x9)  (I-type) PC=0
         Mem[1] = 32'h00832383; // lw x7, 8(x6)   (I-type) PC=4
-        //Mem[1] = 32'h0064A423; // sw x6, 8(x9) (S-type)
-        // R-type 명령어 
-        //Mem[2] = 32'h006281B3; // ADD x3, x5, x6 (R-type)
-
-        // S-type 명령어 (메모리 주소 x2에 x4 값을 저장)
-        //Mem[3] = 32'h0041A123; // SW x4, 2(x3) (S-type)
     end
 
 
