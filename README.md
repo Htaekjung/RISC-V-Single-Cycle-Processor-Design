@@ -1,11 +1,3 @@
-# ALU.v
-![image](https://github.com/user-attachments/assets/92e43b2f-508b-4a66-acc1-86152431e8d5)
-
-
-# ALU_2.v
-![image](https://github.com/user-attachments/assets/bb3fb027-43d4-4edd-b9db-4c50248c1030)
-
-
 # RISC-V Single Cycle Mmicroarchitecture
 이 PDF 파일은 원작자(MERL-DSU)의 저작물이며, Apache License 2.0이 적용됨
 
