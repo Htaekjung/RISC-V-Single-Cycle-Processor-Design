@@ -1,3 +1,6 @@
+# Top Architecture
+![image](https://github.com/user-attachments/assets/ae4ad5d1-d434-40ca-8cb6-c07840ab4385)
+
 # RISC-V Single Cycle Mmicroarchitecture
 이 PDF 파일은 원작자(MERL-DSU)의 저작물이며, Apache License 2.0이 적용됨
 
